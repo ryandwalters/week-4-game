@@ -1,0 +1,33 @@
+body {
+    background-image: url("/Users/ryanwalters/Desktop/week-4-game/assets/images/background.png");
+}
+
+h1 {
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+}
+
+.gameRules {
+    background-color: white;
+
+}
+
+div {
+    border-style: solid;
+    border-width: 1px;
+}
+
+.crystalImage 
+
+#computerScoreBoard {
+    background-color: white;
+}
+
+#winsLossScoreboard {
+    background-color: white;
+}
+
+#playerScoreBoard {
+    background-color: white;
+}
